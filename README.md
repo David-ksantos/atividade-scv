@@ -9,8 +9,5 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
-  <tr>
-    <td>David Kleber</td>
-    <td>Monteiro</td>
-  </tr>
+  
 </table>
