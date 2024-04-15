@@ -8,7 +8,8 @@
   <tr>
     <td>Rodrigo</td>
     <td>Maceio</td>
-    <br>
+  </tr>
+  <tr>
     <td>David Kleber</td>
     <td>Monteiro</td>
   </tr>
